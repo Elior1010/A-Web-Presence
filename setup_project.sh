@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the project name
-PROJECT_NAME="your-project-name"
+UAT_class_project
 
 # Create the main project directory
 mkdir $PROJECT_NAME
